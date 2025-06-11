@@ -26,13 +26,13 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Arba Minch University</li>
-        <li>ALX Africa</li>
-        <li>Udemy</li>
-        <li>Udacity</li>
+        <li>Arba Minch University (BSc in Software Engineering)</li>
+        <li>ALX Africa (Professional Foundation)</li>
+        <li>Udemy (JavaScript, React.js, Next.js, and Tailwind CSS)</li>
       </ul>
     ),
   },
+
   {
     title: "Certifications",
     id: "certifications",
@@ -67,12 +67,12 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I&apos;m Firaol Admasu, a dedicated front-end web developer from Ethiopia
-            with a passion for solving real-world problems through technology. I
-            specialize in building modern, responsive user interfaces using
-            React, Next.js, and Tailwind CSS. I&apos;m focused on creating
-            user-centric web applications that are both visually appealing and
-            performant.
+            I&apos;m Firaol Admasu, a dedicated front-end web developer from
+            Ethiopia with a passion for solving real-world problems through
+            technology. I specialize in building modern, responsive user
+            interfaces using React, Next.js, and Tailwind CSS. I&apos;m focused
+            on creating user-centric web applications that are both visually
+            appealing and performant.
             <br />
             <br />I recently completed an internship at EagleLion Systems
             Technology PLC, where I collaborated with a team to develop a
