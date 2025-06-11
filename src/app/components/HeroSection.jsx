@@ -39,8 +39,8 @@ const HeroSection = () => {
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             I&apos;m a passionate Front-End Developer and Software Engineer
             focused on building intuitive, responsive web applications using
-            React.js, Next.js and Tailwind CSS. Let's bring your ideas to life
-            with clean, scalable code and thoughtful design.
+            React.js, Next.js and Tailwind CSS. Let&apos;s bring your ideas to
+            life with clean, scalable code and thoughtful design.
           </p>
 
           <div>
