@@ -67,10 +67,10 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm Firaol Admasu, a dedicated front-end web developer from Ethiopia
+            I&apos;m Firaol Admasu, a dedicated front-end web developer from Ethiopia
             with a passion for solving real-world problems through technology. I
             specialize in building modern, responsive user interfaces using
-            React, Next.js, and Tailwind CSS. I'm focused on creating
+            React, Next.js, and Tailwind CSS. I&apos;m focused on creating
             user-centric web applications that are both visually appealing and
             performant.
             <br />
